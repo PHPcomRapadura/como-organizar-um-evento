@@ -1,9 +1,12 @@
 # Titulo do Evento
-> Mini descrição do evento (subtitulo)
+Mini descrição do evento (subtitulo)
 
 **Local:** Nome do Local (Faculdade/Escola/bar)
+
 **Data:** Descrever por extenso, por exemplo: Sábado, Dia de Mês de ANO
-**Data:** HH:MM às HH:MM
+
+**Horário:** HH:MM às HH:MM
+
 **Público Minimo:** XXX pessoas
 
 ### Descrição
